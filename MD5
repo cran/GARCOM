@@ -1,7 +1,7 @@
-fea48367e078f5c279719af340fcd5dc *DESCRIPTION
+9d6cf9471ec04e0c3eb6ddf98067f1d3 *DESCRIPTION
 831028ba371e3228da3d77453974baf4 *LICENSE
 0a66ae1e9e751b380880aa583227bf42 *NAMESPACE
-9d96ca8dc340046aca2c7653998aa17d *NEWS.md
+c62b028d100919459869018828bb972a *NEWS.md
 e0955d69e3efdd46564025e514502fe5 *R/data.R
 f58d9ef26ebe90ceb1fccbe1505d189f *R/gene_annot_counts.R
 6ed0aa03514ffa9519a3d9ab6529e2d0 *R/gene_pos_counts.R
@@ -9,12 +9,13 @@ bc9fb600489370db18867a2dc5686ca5 *R/utils.R
 775fc25c27389ff82a3b05c04a6b30e7 *R/vcf_counts_SNP_genecoords.R
 9d5f145166cecb878ddf70b2f4ef052a *R/vcf_counts_annot.R
 dc4f14f1b5e5cc734d28502626e7d70c *R/zzz.R
-13e3dddc52a6eef55efb0e2048de2c78 *README.md
+05f3ef3a66c26c98fdc9d6e167f22330 *README.md
 3cb23870c9b1cd00be48e96efeb68b5e *data/genecoord.rda
 ba3c7fa1bf1c8bad6eef820a9a404bdb *data/recodedgen.rda
 a20c563e94c085201be89899432d1109 *data/snpgene.rda
 204a09936eed7becb6b51888cf920ae8 *data/snppos.rda
-611038d88473cc78f256bd8452da684c *inst/CITATION
+8e9ff5c19b2b3f0980f1d9cca504d1b1 *inst/CITATION
+94c1ebbaab513d9fc4fd831aa37d4a29 *inst/extdata/chr21_forGARCOM.recode.vcf
 08b00fff73368c47f26c434e2282e8f4 *man/gene_annot_counts.Rd
 0f5f80b76d3387828625664f365e9977 *man/gene_pos_counts.Rd
 d82f2f0a7b70cbdfb8aaef9ef22514eb *man/genecoord.Rd
